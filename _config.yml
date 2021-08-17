@@ -11,7 +11,7 @@ title                    : "Nattapat Boonprakong"
 title_separator          : "-"
 name                     : &name "Nattapat Boonprakong"
 description              : &description "A PhD student at the University of Melbourne"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nattapatb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nattapatb.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nattapat Boonprakong"
-  avatar           : "profile.png"
+  avatar           : "unimelbCIS_profile_pic.jpeg"
   bio              : "PhD Student at the University of Melbourne"
   location         : "Melbourne, Australia"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/nattapat-boonprakong-3095811a1/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
