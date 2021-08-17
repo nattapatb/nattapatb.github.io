@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng in Computer Engineering, Chulalongkorn University (Thailand), 2014-2018
+* Research Studentship, Osaka University (Japan), 2018-2019
+* M.S. in Information and Physical Science, Osaka University (Japan), 2019-2021 
+* Ph.D in Human-Computer Interaction, The University of Melbourne (Australia), August 2021-
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019 - March 2021: Research Assistant
+  * The Institute of Scientific and Industrial Research (ISIR), Osaka University
+  * Duties included: Physiological and Sensory Data Analysis
+  * Supervisor: Dr Masayuki Numao and Dr Tsukasa Kimura
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sepember 2019: Intern
+  * Crimson Technology, Japan
+  * Duties included: Developed biosignal processing modules for off-the-shelf devices
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* June 2018 - March 2019: Data Science Researcher
+  * Home DOT Tech, Thailand
+
+* May-July 2017: Undergraduate Research Intern
+  * Nara Institute of Science and Technology (NAIST)
+  * Duties included: Extraction of Noisy Cardiac Signals through unsupervised methods
+
   
-Talks
+Teaching experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Jan-July 2018: 2110101 Computer Programming, Chulalongkorn University
+  * Duties included: Tutoring undergraduate students for python programming
+  * Supervisor: Dr Somchai Prasitjutrakul
+* Aug-Dec 2017: 2110313 Operating Systems, Chulalongkorn University
+  *  Duties included: Tutoring undergraduate students for unix programming
+  *  Supervisor: Thongchai Rojkangsadan
