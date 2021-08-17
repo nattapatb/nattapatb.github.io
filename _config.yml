@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nattapat Boonprakong"
-  avatar           : "images/profile.png"
+  avatar           : "unimelbCIS_profile_pic.jpeg"
   bio              : "PhD Student at the University of Melbourne"
   location         : "Melbourne, Australia"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nattapatb" 
+  github           : "nattapatb" 
   google_plus      :
   keybase          :
   instagram        :
