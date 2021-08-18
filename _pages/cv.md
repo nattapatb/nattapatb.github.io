@@ -55,5 +55,5 @@ Skills
 Scholarships and Awards
 ======
 * Melbourne Research Scholarship, The University of Melbourne \[2021-2024\]
-* Japanese Government Scholarship (文部科学省; MEXT) \[2018-2021\]
-* Dean's list \[2014,2015,2016,2017\]
+* Japanese Government Scholarship (文部科学省; MEXT), Osaka University \[2018-2021\]
+* Dean's list, Chulalongkorn University \[2014,2015,2016,2017\]
