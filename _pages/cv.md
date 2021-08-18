@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,6 +33,7 @@ Work experience
 * May-July 2017: Undergraduate Research Intern
   * Nara Institute of Science and Technology (NAIST)
   * Duties included: Extraction of Noisy Cardiac Signals through unsupervised methods
+  * Supervisor: Dr Junichiro Yoshimoto
 
   
 Teaching experience
@@ -43,3 +44,16 @@ Teaching experience
 * Aug-Dec 2017: 2110313 Operating Systems, Chulalongkorn University
   *  Duties included: Tutoring undergraduate students for unix programming
   *  Supervisor: Thongchai Rojkangsadan
+
+Skills
+======
+* Programming languages: Python, MATLAB, C++, Java, SQL, Haskell
+* Technical Skills: Biosignal processing (EEG, ECG, EDA)
+* Anatytic Skills: Statistical analysis, Machine learning
+* Languages: Thai (native), English (TOEFL 102), Japanese (daily use)
+
+Scholarships and Awards
+======
+* Melbourne Research Scholarship, The University of Melbourne \[2021-2024\]
+* Japanese Government Scholarship (文部科学省; MEXT) \[2018-2021\]
+* Dean's list \[2014,2015,2016,2017\]
