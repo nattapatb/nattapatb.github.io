@@ -21,7 +21,6 @@ Work experience
 * June 2019 - March 2021: Research Assistant
   * The Institute of Scientific and Industrial Research (ISIR), Osaka University
   * Duties included: Physiological and Sensory Data Analysis
-  * Supervisor: Dr Masayuki Numao and Dr Tsukasa Kimura
 
 * Sepember 2019: Intern
   * Crimson Technology, Japan
@@ -33,27 +32,30 @@ Work experience
 * May-July 2017: Undergraduate Research Intern
   * Nara Institute of Science and Technology (NAIST)
   * Duties included: Extraction of Noisy Cardiac Signals through unsupervised methods
-  * Supervisor: Dr Junichiro Yoshimoto
 
   
 Teaching experience
 ======
-* Jan-July 2018: 2110101 Computer Programming, Chulalongkorn University
+*  2022 Semester 2: COMP90041 Programming and Software Development, The University of Melbourne
+  * Duties included: Tutoring postgraduate students for object-oriented programming using Java  
+*  2017 Semester 2 and Summer Semester: 2110101 Computer Programming, Chulalongkorn University
   * Duties included: Tutoring undergraduate students for python programming
-  * Supervisor: Dr Somchai Prasitjutrakul
-* Aug-Dec 2017: 2110313 Operating Systems, Chulalongkorn University
+*  2017 Semester 1: 2110313 Operating Systems, Chulalongkorn University
   *  Duties included: Tutoring undergraduate students for unix programming
-  *  Supervisor: Thongchai Rojkangsadan
 
 Skills
 ======
 * Programming languages: Python, MATLAB, C++, Java, SQL, Haskell
-* Technical Skills: Biosignal processing (EEG, ECG, EDA)
+* Technical Skills: Biosignal processing (EEG, fNIRS, ECG, EDA)
 * Anatytic Skills: Statistical analysis, Machine learning
-* Languages: Thai (native), English (TOEFL 102), Japanese (daily use)
+* Languages: Thai (native), English (professional use), Japanese (daily use)
 
 Scholarships and Awards
 ======
 * Melbourne Research Scholarship, The University of Melbourne \[2021-2024\]
 * Japanese Government Scholarship (文部科学省; MEXT), Osaka University \[2018-2021\]
 * Dean's list, Chulalongkorn University \[2014,2015,2016,2017\]
+
+Certificates
+======
+* Certificate of Small Group Teaching, The University of Melbourne
