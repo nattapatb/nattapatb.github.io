@@ -37,11 +37,11 @@ Work experience
 Teaching experience
 ======
 *  2022 Semester 2: COMP90041 Programming and Software Development, The University of Melbourne
-  * Duties included: Tutoring postgraduate students for object-oriented programming using Java  
+** Duties included: Tutoring postgraduate students for object-oriented programming using Java  
 *  2017 Semester 2 and Summer Semester: 2110101 Computer Programming, Chulalongkorn University
-  * Duties included: Tutoring undergraduate students for python programming
+** Duties included: Tutoring undergraduate students for python programming
 *  2017 Semester 1: 2110313 Operating Systems, Chulalongkorn University
-  *  Duties included: Tutoring undergraduate students for unix programming
+**  Duties included: Tutoring undergraduate students for unix programming
 
 Skills
 ======
