@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Bio"
-    url: /cv/
+  - title: "CV"
+    url: /files/CV-2024-pub.pdf
     
   - title: "Publications"
     url: /publications/
