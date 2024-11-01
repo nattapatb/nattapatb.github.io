@@ -10,7 +10,7 @@ redirect_from:
 
 Hi and good day! I am a final-year PhD candidate in Human-Computer Interaction at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, Cognitive Psychology, and Physiological Sensing. My PhD research is specifically interested in **Quantifying, Understanding, and Mitigating Cognitive Biases in Human-Computer Interaction (HCI).**
 
-I am actively involved in research communities of cognitive bias and physiological computing. I led the organisation of two successful workshops at premier HCI venues: (1) [Understanding and Mitigating Cognitive Biases in Human-AI Collaoration (CSCW '23)](http://critical-media.org/cscw23/) and (2) [Advancing Physiological Methods in Human-Information Interaction (UbiComp/ISWC '24)](https://hii-biosignal.github.io/ubi24/). 
+I am actively involved in research communities of cognitive bias and physiological computing. I led the organisation of two successful workshops at premier HCI venues: (1) [Understanding and Mitigating Cognitive Biases in Human-AI Collaoration (CSCW '23)](http://critical-media.org/cscw23/) and (2) [Advancing Physiological Methods in Human-Information Interaction (UbiComp/ISWC '24)](https://hii-biosignal.github.io/ubi24/).
 
 > I am currently looking for job/postdoc opportunities. My official CV is available [here](https://nattapatb.github.io/files/CV-2024-pub.pdf).
 
@@ -48,3 +48,7 @@ Prior to that, I obtained a Master of Information Science and Technology from Os
 * Melbourne Plus - People Leadership (2024)
 * Melbourne Research Scholarship (2021)
 * Japanese Government Scholarship (2018)
+
+## Invited Talks
+* (RMIT TIGER Talk) *Bias-Aware Systems: Understanding, Detecting, and Mitigating Cognitive Biases that Aid the Spread of Misinformation* (November 9, 2023)
+* (CIS PhD Confirmation Seminar) *Understanding, Detecting, and Mitigating Cognitive Biases that Aid the Spread of Misinformation* (October 21, 2022)
