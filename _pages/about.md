@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi and good day! I am a fourth-year PhD Candidate in Human-Computer Interaction (HCI) at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centered Computing, Behavioural Science, Cognitive Psychology, and Physiological Sensing. My PhD research is specifically interested in **Quantifying, Understanding, and Mitigating Cognitive Biases in in Human-Computer Interaction (HCI).**
+Hi and good day! I am a fourth-year PhD candidate in Human-Computer Interaction (HCI) at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centered Computing, Behavioural Science, Cognitive Psychology, and Physiological Sensing. My PhD research is specifically interested in **Quantifying, Understanding, and Mitigating Cognitive Biases in Human-Computer Interaction (HCI).**
 
 Beyond my PhD study, I am actively involved in research communities of cognitive bias and physiological computing. I led the organisation of two workshops at premier HCI venues: (1) [Understanding and Mitigating Cognitive Biases in Human-AI Collaoration (CSCW '23)](http://critical-media.org/cscw23/) and (2) [Advancing Physiological Methods in Human-Information Interaction (UbiComp/ISWC '24)](https://hii-biosignal.github.io/ubi24/). 
 
-**Nattapat is currently looking for job opportunities.** My official CV is available [here](https://nattapatb.github.io/files/CV-2024-pub.pdf).
+**I am currently looking for job/postdoc opportunities.** My official CV is available [here](https://nattapatb.github.io/files/CV-2024-pub.pdf). I am expected to graduate in mid-2025.
 
 __Keywords__: Cognitive Biases; Mental Models in Human-Computer Interaction; Physiological Computing; Human-Information Interaction
 
