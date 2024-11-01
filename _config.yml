@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nattapat Boonprakong"
 title_separator          : "-"
 name                     : &name "Nattapat Boonprakong"
-description              : &description "A PhD student at the University of Melbourne"
+description              : &description "PhD candidate at the University of Melbourne"
 url                      : https://nattapatb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nattapatb.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nattapat Boonprakong \n\n (ณัฐภัทร บุญประคอง)"
-  avatar           : "unimelbCIS_profile_pic.jpeg"
+  avatar           : "Nattapat-headshot.jpeg"
   bio              : "PhD Student at the University of Melbourne"
   location         : "Parkville, VIC, Australia"
   employer         :
