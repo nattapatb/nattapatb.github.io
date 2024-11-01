@@ -12,7 +12,7 @@ Hi and good day! I am a fourth-year PhD Candidate in Human-Computer Interaction 
 
 Beyond my PhD study, I am actively involved in research communities of cognitive bias and physiological computing. I led the organisation of two workshops at premier HCI venues: (1) [Understanding and Mitigating Cognitive Biases in Human-AI Collaoration (CSCW '23)](http://critical-media.org/cscw23/) and (2) [Advancing Physiological Methods in Human-Information Interaction (UbiComp/ISWC '24)](https://hii-biosignal.github.io/ubi24/). 
 
-**Nattapat is currently looking for job opportunities.**
+**Nattapat is currently looking for job opportunities.** My official CV is available [here](https://nattapatb.github.io/files/CV-2024-pub.pdf).
 
 __Keywords__: Cognitive Biases; Mental Models in Human-Computer Interaction; Physiological Computing; Human-Information Interaction
 
@@ -22,7 +22,7 @@ Human mental models are heavily influenced by [Cognitive biases](https://en.wiki
 
 ![image info](./images/bias-overview.png)
 
-In my PhD work with my supervisors [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/), I explore **the notion of cognitive biases in HCI** -- how they can be reliably quantified, how they manifest in the interact with computers, and how to effectively mitigate their undesired effects.
+In my PhD work with my supervisors [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/), I explore **the notion of cognitive biases in HCI** -- how they can be reliably quantified, how they manifest in the interact with computers, and how their undesired effects can be effectively mitigated.
 
 A brief summary of my PhD work:
 
@@ -30,9 +30,9 @@ A brief summary of my PhD work:
 
 * I study individual and contextual factors into how people are susceptible to cognitive biases. The manifestation of cognitive biases are influenced by user characteristics and interaction contexts. Therefore, biases are not always pronounced in every individual and scenario. Measured through self-assessments (such as Cognitive Reflection Test and Wilson-Patterson Conservatism Scales), I investigate how do individual and contextual factors influence the occurrences of confirmation bias in three information interaction scenarios: seeking, interpreting, and seeking polarising information.
 
-* I sketch out a research agenda for designing technologies to support critical thinking in people and fortify them from misinformation and online manipulation. I document the discussions in three workshops and formulate HCI-side solutions that help limit the spread of misinformation through user interfaces and effective interventions that foster deliberate thinking in people and skills they need to conduct themselves online. **[Pervasive Computing Article](https://ieeexplore.ieee.org/abstract/document/10142163)**
+* I sketch out a **[research agenda](https://ieeexplore.ieee.org/abstract/document/10142163)** for designing technologies to support critical thinking in people and fortify them from misinformation and online manipulation. I document the discussions in three workshops and formulate HCI-side solutions that help limit the spread of misinformation through user interfaces and effective interventions that foster deliberate thinking in people and skills they need to conduct themselves online.
 
-* Extending the growing discussions in HCI, I map out the field's research around the issue of cognitive biases. Through a systematic literature review of HCI articles investigating cognitive biases (from 2010 to 2024), I document cognitive biases that present in the interaction with computers and how researchers study them from a HCI angle.
+* Extending the growing discussions in HCI, I map out the field's state of the art around the issue of cognitive biases. Through a systematic literature review of HCI articles investigating cognitive biases (from 2010 to 2024), I document cognitive biases that present in the interaction with computers and how researchers study them from a HCI angle.
 
 Prior to that, I obtained a Master of Information Science and Technology from Osaka University in Japan, where I received the Japanese Government Scholarship (MEXT). [My master's thesis](https://ieeexplore.ieee.org/abstract/document/9283107) titled *Towards Multimodal Office Task Performance Estimation* led me to develop research interests in cognition-aware computing and physiological sensing. Prior to Japan, I completed a Bachelor of Computer Engineering (1st class honours) from Chulalongkorn University, Thailand.
 
