@@ -22,7 +22,7 @@ Human mental models are heavily influenced by [Cognitive biases](https://en.wiki
 
 ![image info](./images/bias-overview.png)
 
-In my PhD work with my supervisors [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/), I explore **the notion of cognitive biases in HCI** -- how they can be reliably quantified, how they manifest in the interact with computers, and how their undesired effects can be effectively mitigated.
+In the work with my PhD supervisors [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/), I explore **the notion of cognitive biases in HCI** -- how they can be reliably quantified, how they manifest in the interact with computers, and how their undesired effects can be effectively mitigated.
 
 A brief summary of my PhD work:
 
