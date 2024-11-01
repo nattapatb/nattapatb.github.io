@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi and good day! I am a fourth-year PhD candidate in Human-Computer Interaction at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, Cognitive Psychology, and Physiological Sensing. My PhD research is specifically interested in **Quantifying, Understanding, and Mitigating Cognitive Biases in Human-Computer Interaction (HCI).**
+Hi and good day! I am a final-year PhD candidate in Human-Computer Interaction at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, Cognitive Psychology, and Physiological Sensing. My PhD research is specifically interested in **Quantifying, Understanding, and Mitigating Cognitive Biases in Human-Computer Interaction (HCI).**
 
 Beyond my PhD study, I am actively involved in research communities of cognitive bias and physiological computing. I led the organisation of two workshops at premier HCI venues: (1) [Understanding and Mitigating Cognitive Biases in Human-AI Collaoration (CSCW '23)](http://critical-media.org/cscw23/) and (2) [Advancing Physiological Methods in Human-Information Interaction (UbiComp/ISWC '24)](https://hii-biosignal.github.io/ubi24/). 
 
