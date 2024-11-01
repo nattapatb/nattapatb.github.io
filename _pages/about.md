@@ -26,7 +26,7 @@ In my PhD work with my supervisors [Tilman Dingler](http://www.tilmanification.c
 
 A brief summary of my PhD work:
 
-* I apply physiological methods -- Near Infrared Technology (fNIRs), Electrodomal Activity (EDA), and Eye-Tracking -- to measure the effects of cognitive biases when reading ideologically polarised short-information (e.g., tweets). To overcome the unconscious nature of cognitive biases, I s physiological measures offer a more objective way to quantify cognitive biases. **[[CHI '23 Honourable Mention Paper]](https://dl.acm.org/doi/abs/10.1145/3544548.3580917)**
+* I apply physiological methods -- Near Infrared Technology (fNIRs), Electrodomal Activity (EDA), and Eye-Tracking -- to measure the effects of cognitive biases when reading ideologically polarised short-information (e.g., tweets). To overcome the unconscious nature of cognitive biases, I s physiological measures offer a more objective way to quantify cognitive biases. **[[CHI '23 Honourable Mention Paper](https://dl.acm.org/doi/abs/10.1145/3544548.3580917), [video](https://www.youtube.com/watch?v=DgWEPaVPDck&t=1s)]**
 
 * I study individual and contextual factors into how people are susceptible to cognitive biases. The manifestation of cognitive biases are influenced by user characteristics and interaction contexts. Therefore, biases are not always pronounced in every individual and scenario. Measured through self-assessments (such as Cognitive Reflection Test and Wilson-Patterson Conservatism Scales), I investigate how do individual and contextual factors influence the occurrences of confirmation bias in three information interaction scenarios: seeking, interpreting, and seeking polarising information.
 
