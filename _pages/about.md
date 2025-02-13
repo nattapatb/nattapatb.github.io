@@ -12,7 +12,7 @@ Hi and good day! I am a final-year PhD candidate in Human-Computer Interaction a
 
 I am actively involved in research communities of cognitive bias and physiological computing. I led the organisation of two successful workshops at premier HCI venues: (1) [Understanding and Mitigating Cognitive Biases in Human-AI Collaoration (CSCW '23)](http://critical-media.org/cscw23/) and (2) [Advancing Physiological Methods in Human-Information Interaction (UbiComp/ISWC '24)](https://hii-biosignal.github.io/ubi24/).
 
-> I am currently looking for job/postdoc opportunities. My official CV is available [here](https://nattapatb.github.io/files/CV-2024-pub.pdf).
+> I am currently looking for job/postdoc opportunities. My official CV is available [here](https://nattapatb.github.io/files/CV-2025-academic.pdf).
 
 __Keywords__: Cognitive Biases; Mental Models in Human-Computer Interaction; Physiological Computing; Human-Information Interaction
 
