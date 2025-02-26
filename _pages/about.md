@@ -57,7 +57,7 @@ In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26–
 Bias in News Feed Reading**. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26–May 01, 2025, Yokohama, Japan. ACM, New
 York, NY, USA, 19 pages. [Paper](https://doi.org/10.1145/3706598.3713873)
 * Nattapat Boonprakong, Xiuge Chen, Catherine Davey, Benjamin Tag, and Tilman Dingler. 2023. **Bias-Aware Systems: Exploring Indicators for the Occurrences of Cognitive Biases when Facing Different Opinions**. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 27, 1–19. [Honorable Mention Best Paper](https://doi.org/10.1145/3544548.3580917)
-* Nattapat Boonprakong, Benjamin Tag, and Tilman Dingler. 2023. Designing Technologies to Support Critical Thinking in an Age of Misinformation. In IEEE Pervasive Computing, vol. 22, no. 3, pp. 8-17, 1 July-Sept. 2023. [Paper](https://ieeexplore.ieee.org/abstract/document/10142163)
+* Nattapat Boonprakong, Benjamin Tag, and Tilman Dingler. 2023. **Designing Technologies to Support Critical Thinking in an Age of Misinformation**. In IEEE Pervasive Computing, vol. 22, no. 3, pp. 8-17, 1 July-Sept. 2023. [Paper](https://ieeexplore.ieee.org/abstract/document/10142163)
 * Nattapat Boonprakong, Tsukasa Kimura, Ken-ichi Fukui, Kazuya Okada, Masato Ito, Hiroshi Maruyama, Masayuki Numao. **Towards Multimodal Office Task Performance Estimation**. 2020. IEEE International Conference on Systems, Man, and Cybernetics (SMC), Toronto, ON, Canada, 2020, pp. 2695-2701. [Paper](https://ieeexplore.ieee.org/abstract/document/9283107/)
 
 ## Invited Talks
