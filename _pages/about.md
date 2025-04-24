@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi and good day! I am a final-year PhD candidate in Human-Computer Interaction at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction (HCI).** I work with my PhD advisors - [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/)
+Hi and good day! I am a final-year PhD candidate in Human-Computer Interaction at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.** My PhD advisors are Tilman Dingler, Benjamin Tag, and Jorge Goncalves. 
+<!---
+[Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/)
+-->
 
-I define myself as a computer scientist. My passion is to design and develop technologies that take into account human cognitive states, adapt to complex and constrained mental models, and help people make conscious decisions in the real world.
-
-I am actively involved in research communities of cognitive bias and physiological computing. I led the organisation of two successful workshops at premier HCI venues: (1) Understanding and Mitigating Cognitive Biases in Human-AI Collaboration ([CSCW '23](http://critical-media.org/cscw23/)) and (2) Advancing Physiological Methods in Human-Information Interaction ([UbiComp/ISWC '24](https://hii-biosignal.github.io/ubi24/)).
+As a Human-Computer Interaction (HCI) researcher, my passion is to design and develop technologies that take into account cognitive biases in people, adapt to their complex and constrained mental models, and help them make conscious decisions in the real world.
 
 <!---
 > I am currently looking for job/postdoc opportunities. My official CV is available [here](https://nattapatb.github.io/files/CV-2025-academic.pdf).
@@ -22,7 +23,7 @@ __Keywords__: Cognitive Biases; Human Factors; Physiological Computing; Human-In
 
 ## Outline of My Research
 
-Modern technologies, such as AI and social media, enable new and complex ways for humans to interact with computers. However, they introduce sheer cognitive demands, time constraints, and ambiguity to users. To cope with such demands, humans apply mental shortcuts or heuristics to sift through information and effectively make decisions. However, these shortcuts result in [Cognitive Biases](https://en.wikipedia.org/wiki/Cognitive_bias), which systematically influence behaviour and judgment without one’s awareness. These biases can lead to devastating outcomes for users, for example, falling victim to misinformation, mistrusting or over-relying on AI assistance, and being manipulated by social engineering applications or dark patterns.
+Modern technologies, such as AI and social media, enable new and complex ways for humans to interact with computers. However, they introduce sheer cognitive demands, time constraints, and ambiguity to users. To cope with such demands, humans apply mental shortcuts or heuristics to sift through information and effectively make decisions. However, these shortcuts result in **[Cognitive Biases](https://en.wikipedia.org/wiki/Cognitive_bias)**, which systematically influence behaviour and judgment without one’s awareness. These biases can lead to devastating outcomes for users, for example, falling victim to misinformation, mistrusting or over-relying on AI assistance, and being manipulated by social engineering applications or dark patterns.
 
 ![image info](./images/bias-review-framework.png)
 
@@ -48,7 +49,9 @@ My three publications at the CHI conference outline my research around forming a
 * I sketch out a **[research agenda](https://ieeexplore.ieee.org/abstract/document/10142163)** for designing technologies to support critical thinking in people and fortify them from misinformation and online manipulation. I document the discussions in three workshops and formulate HCI-side solutions that help limit the spread of misinformation through user interfaces and effective interventions that foster deliberate thinking in people and skills they need to conduct themselves online.
 -->
 
-Before my PhD study, I obtained a Master of Information Science and Technology from Osaka University in Japan, where I received the Japanese Government Scholarship (MEXT). [My master's thesis](https://ieeexplore.ieee.org/abstract/document/9283107) titled *Towards Multimodal Office Task Performance Estimation* led me to develop research interests in cognition-aware computing and physiological sensing. Prior to Japan, I completed a Bachelor of Computer Engineering (1st class honours) from Chulalongkorn University, Thailand.
+Apart from my PhD research, I am actively involved in research communities of cognitive bias and physiological computing. I led the organisation of two successful workshops at premier HCI venues: (1) Understanding and Mitigating Cognitive Biases in Human-AI Collaboration ([CSCW '23](http://critical-media.org/cscw23/)) and (2) Advancing Physiological Methods in Human-Information Interaction ([UbiComp/ISWC '24](https://hii-biosignal.github.io/ubi24/)).
+
+I previously obtained a Master of Information Science and Technology from Osaka University in Japan, where I received the Japanese Government Scholarship (MEXT). [My master's thesis](https://ieeexplore.ieee.org/abstract/document/9283107) titled *Towards Multimodal Office Task Performance Estimation* led me to develop research interests in cognition-aware computing and physiological sensing. Before that, I completed a Bachelor of Computer Engineering (1st class honours) from Chulalongkorn University, Thailand.
 
 ## Academic Service and Volunteering
 * CHI '24 LBW Associate Chair
