@@ -22,7 +22,7 @@ As a Human-Computer Interaction (HCI) researcher, my passion is to design and de
 __Keywords__: Cognitive Biases; Human Factors; Physiological Computing; Human-Information Interaction
 
 > I'm attending CHI 2025 in Yokohama, Japan. Please find me at two of my presentations:
-> * [[Mon 28 Apr 5:20 - 5:32 PM]](https://programs.sigchi.org/chi/2025/program/content/189225) Assessing Susceptibility Factors of Confirmation Bias in News Feed Reading
+> * [[Mon 28 Apr 5:20-5:32 PM]](https://programs.sigchi.org/chi/2025/program/content/189225) Assessing Susceptibility Factors of Confirmation Bias in News Feed Reading
 > * [[Tue 29 Apr 9:48-10:00 AM]](https://programs.sigchi.org/chi/2025/program/content/188918) How Do HCI Researchers Study Cognitive Biases? A Scoping Review
 
 ## Outline of My Research
