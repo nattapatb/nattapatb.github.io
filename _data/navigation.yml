@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/CV-2024-pub.pdf
+    url: /files/CV-2025-academic.pdf
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=pIGYZbcAAAAJ&hl=en
         
   - title: "Blog Posts"
     url: /year-archive/
