@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi and good day! I am a final-year PhD candidate in Human-Computer Interaction at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.** My PhD advisors are Tilman Dingler, Benjamin Tag, and Jorge Goncalves. 
+Hi and good day! I am an incoming Research Fellow in Human-Computer Interaction at National University of Singapore, and a final-year PhD candidate at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.** My PhD advisors are Tilman Dingler, Benjamin Tag, and Jorge Goncalves. 
 <!---
 [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/)
 -->
