@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi and good day! I am a Postdoctoral Research Fellow in Human-Computer Interaction at the [AI for Social Good lab](https://www.ai4sg.org/), NUS School of Computing, Singapore. I obtained my PhD from the University of Melbourne, where I worked with Tilman Dingler, Benjamin Tag, and Jorge Goncalves. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.**
+Hi and good day! I am a Postdoctoral Research Fellow in Human-Computer Interaction at the NUS School of Computing, Singapore. I work with Yi-Chieh Lee at the [AI for Social Good lab](https://www.ai4sg.org/). Previously, I obtained my PhD from the University of Melbourne in Australia, where I worked with Tilman Dingler, Benjamin Tag, and Jorge Goncalves. My research interests lie within an intersection of different disciplines such as Human-Centred AI, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.**
 <!---
 [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/)
 -->
