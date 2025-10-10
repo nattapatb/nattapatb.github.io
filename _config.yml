@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nattapat Boonprakong"
 title_separator          : "-"
 name                     : &name "Nattapat Boonprakong"
-description              : &description "PhD Candidate at the University of Melbourne"
+description              : &description "Research Fellow at NUS School of Computing"
 url                      : https://nattapatb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nattapatb.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nattapat Boonprakong"
   avatar           : "Nattapat-headshot.jpeg"
-  bio              : "PhD Candidate at the University of Melbourne"
-  location         : "Parkville, VIC, Australia"
+  bio              : "Research Fellow at NUS"
+  location         : "Singapore 117417"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pIGYZbcAAAAJ&hl=th"
-  email            : "nboonprakong@student.unimelb.edu.au"
+  email            : "nattapat.boonprakong@nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
