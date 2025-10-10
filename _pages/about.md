@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi and good day! I am an incoming Research Fellow in Human-Computer Interaction at National University of Singapore, and a final-year PhD candidate at the University of Melbourne, Australia. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.** My PhD advisors are Tilman Dingler, Benjamin Tag, and Jorge Goncalves. 
+Hi and good day! I am a Postdoctoral Research Fellow in Human-Computer Interaction at the [AI for Social Good lab](https://www.ai4sg.org/), NUS School of Computing, Singapore. I obtained my PhD from the University of Melbourne, where I worked with Tilman Dingler, Benjamin Tag, and Jorge Goncalves. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.** My thesis is available here.
 <!---
 [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/)
 -->
@@ -21,9 +21,11 @@ As a Human-Computer Interaction (HCI) researcher, my passion is to design and de
 
 __Keywords__: Cognitive Biases; Human Factors; Physiological Computing; Human-Information Interaction
 
+<!---
 > I'm attending CHI 2025 in Yokohama, Japan. Please find me at two of my presentations:
 > * [[Mon 28 Apr 5:20-5:32 PM]](https://programs.sigchi.org/chi/2025/program/content/189225) Assessing Susceptibility Factors of Confirmation Bias in News Feed Reading
 > * [[Tue 29 Apr 9:48-10:00 AM]](https://programs.sigchi.org/chi/2025/program/content/188918) How Do HCI Researchers Study Cognitive Biases? A Scoping Review
+-->
 
 ## Outline of My Research
 
