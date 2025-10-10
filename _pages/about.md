@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi and good day! I am a Postdoctoral Research Fellow in Human-Computer Interaction at the [AI for Social Good lab](https://www.ai4sg.org/), NUS School of Computing, Singapore. I obtained my PhD from the University of Melbourne, where I worked with Tilman Dingler, Benjamin Tag, and Jorge Goncalves. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.** My thesis is available here.
+Hi and good day! I am a Postdoctoral Research Fellow in Human-Computer Interaction at the [AI for Social Good lab](https://www.ai4sg.org/), NUS School of Computing, Singapore. I obtained my PhD from the University of Melbourne, where I worked with Tilman Dingler, Benjamin Tag, and Jorge Goncalves. My research interests lie within an intersection of different disciplines such as Human-Centred Computing, Behavioural Science, and Physiological Sensing. My research focuses on **Quantifying and Understanding the Effects of Cognitive Biases in Human-Computer Interaction.**
 <!---
 [Tilman Dingler](http://www.tilmanification.com), [Benjamin Tag](https://findanexpert.unimelb.edu.au/profile/852535-benjamin-tag), and [Jorge Goncalves](https://www.jorgegoncalves.com/)
 -->
 
 As a Human-Computer Interaction (HCI) researcher, my passion is to design and develop technologies that take into account cognitive biases in people, adapt to their complex and constrained mental models, and help them make conscious decisions in the real world.
+
+> [My thesis](https://nattapatb.github.io/files/Nattapat_Thesis-FINAL.pdf) has recently passed the PhD examination without corrections.
 
 <!---
 > I am currently looking for job/postdoc opportunities. My official CV is available [here](https://nattapatb.github.io/files/CV-2025-academic.pdf).
