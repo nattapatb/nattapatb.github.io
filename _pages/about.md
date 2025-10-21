@@ -62,7 +62,7 @@ Apart from my PhD research, I am actively involved in research communities of co
 I previously obtained a Master of Information Science and Technology from Osaka University in Japan, where I received the Japanese Government Scholarship (MEXT). [My master's thesis](https://ieeexplore.ieee.org/abstract/document/9283107) titled *Towards Multimodal Office Task Performance Estimation* led me to develop research interests in cognition-aware computing and physiological sensing. Before that, I completed a Bachelor of Computer Engineering (1st class honours) from Chulalongkorn University, Thailand.
 
 ## Academic Service and Volunteering
-* CHI '24 LBW Associate Chair
+* Associate Chair: CHI 26 Full Paper, CHI 24 LBW
 * External Reviewer: CHI (25, 24, 23), ISS (24), CHI LBW (25, 24), MobileHCI LBW (24, 23) MUM (23), HAI (23), ISWC (2023), SMC (24)
 * Program Chair, 2024 CIS Doctoral Colloquium
 * Committee Member, CIS Graduate Researcher Society (2022-2024)
