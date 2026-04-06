@@ -15,7 +15,7 @@ Hi and good day! I am a Postdoctoral Research Fellow in Human-Computer Interacti
 
 As a Human-Computer Interaction (HCI) researcher, my passion is to design and develop technologies that take into account cognitive biases in people, adapt to their complex and constrained mental models, and help them make conscious decisions in the real world.
 
-> I'm attending CHI 2026 in Barcelona, Spain. The program features several of my team's contributions:
+> I'm attending CHI 2026 in Barcelona, Spain. The program features several of my team's contributions (3 full papers, 1 poster, 1 workshop, 1 HM award):
 
 > **Full Paper**
 > * [[13 April 11:15-12:45, P1-Room 129]](https://programs.sigchi.org/chi/2026/program/content/222444) AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations **(🏆 Honourable Mention Best Paper)**
@@ -26,7 +26,7 @@ As a Human-Computer Interaction (HCI) researcher, my passion is to design and de
 > * [[15 April Afternoon]](https://programs.sigchi.org/chi/2026/program/content/230124) InterPilot: Exploring the Design Space of AI-assisted Job Interview Support for HR Professionals
 
 > **Workshop**
-> Also, I'll be running a workshop on 13 April: [Understanding, Mitigating, and Leveraging Cognitive Biases to Calibrate Trust in Evolving AI Systems](https://chi-bias-trust.github.io/)
+> * Also, I'll be running a workshop on 13 April afternoon: [Understanding, Mitigating, and Leveraging Cognitive Biases to Calibrate Trust in Evolving AI Systems](https://chi-bias-trust.github.io/)
 
 <!---
 > [My thesis](https://nattapatb.github.io/files/Nattapat_Thesis-FINAL.pdf) has recently passed the PhD examination without corrections.
@@ -60,7 +60,9 @@ My three publications at the CHI conference outline my research around forming a
 
 
 *  Nattapat Boonprakong, Saumya Pareek, Benjamin Tag, Jorge Goncalves, and Tilman Dingler. 2025. **Assessing Susceptibility Factors of Confirmation Bias in News Feed Reading**. In CHI Conference on Human Factors in Computing Systems (CHI ’25). **[📄 Paper](https://nattapatb.github.io/files/chi25-bias-susceptibility.pdf)**
-  > **Understanding Bias Susceptibility:** Cognitive biases do not always surface in every individual and context. A variety of factors  make people more or less susceptible to biases. Based on information consumption scenarios, I conducted a study that exposed users to tweets on a polarising topic when they seek, evaluate, and recall these tweets. The result shows that factors related to *user characteristics* (thinking style and political belief strength) and *interaction context* (issue strength of the content and task design and modality) influence individuals’ susceptibility to exhibit cognitive biases. 
+  > **Understanding Bias Susceptibility:** Cognitive biases do not always surface in every individual and context. A variety of factors  make people more or less susceptible to biases. Based on information consumption scenarios, I conducted a study that exposed users to tweets on a polarising topic when they seek, evaluate, and recall these tweets. The result shows that factors related to *user characteristics* (thinking style and political belief strength) and *interaction context* (issue strength of the content and task design and modality) influence individuals’ susceptibility to exhibit cognitive biases.
+
+My PhD thesis is available [here](https://nattapatb.github.io/files/Nattapat_Thesis-FINAL.pdf).
 
 <!---
 * I apply physiological methods -- Near Infrared Technology (fNIRs), Electrodomal Activity (EDA), and Eye-Tracking -- to measure the effects of cognitive biases when reading ideologically polarised short-information (e.g., opinion tweets about climate change, abortion rights, or feminism). To overcome the unconscious nature of cognitive biases, I conduct a study to explore feasible measures of cognitive biases when people face different opinions. This work paves the first step towards the in-situ detection of cognitive biases. [**[CHI '23 Honourable Mention Best Paper](https://dl.acm.org/doi/abs/10.1145/3544548.3580917)**, [video](https://www.youtube.com/watch?v=DgWEPaVPDck&t=1s)]
