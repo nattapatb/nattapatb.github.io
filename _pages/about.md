@@ -16,6 +16,7 @@ Hi and good day! I am a Postdoctoral Research Fellow in Human-Computer Interacti
 As a Human-Computer Interaction (HCI) researcher, my passion is to design and develop technologies that take into account cognitive biases in people, adapt to their complex and constrained mental models, and help them make conscious decisions in the real world.
 
 > I'm attending CHI 2026 in Barcelona, Spain. The program features several of my team's contributions:
+
 > **Full Paper**
 > * [[13 April 11:15-12:45, P1-Room 129]](https://programs.sigchi.org/chi/2026/program/content/222444) AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations **(🏆 Honourable Mention Best Paper Award)**
 > * [[16 April 9:00-10:30, P1-Room 123]](https://programs.sigchi.org/chi/2026/program/content/223265) AI Personalization Paradox: Reading Highlights for Personalized AI-Assisted Writing Increases Engagement but Undermines Autonomy and Ownership
