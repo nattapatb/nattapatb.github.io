@@ -18,7 +18,7 @@ As a Human-Computer Interaction (HCI) researcher, my passion is to design and de
 > I'm attending CHI 2026 in Barcelona, Spain. The program features several of my team's contributions:
 
 > **Full Paper**
-> * [[13 April 11:15-12:45, P1-Room 129]](https://programs.sigchi.org/chi/2026/program/content/222444) AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations **(🏆 Honourable Mention Best Paper Award)**
+> * [[13 April 11:15-12:45, P1-Room 129]](https://programs.sigchi.org/chi/2026/program/content/222444) AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations **(🏆 Honourable Mention Best Paper)**
 > * [[16 April 9:00-10:30, P1-Room 123]](https://programs.sigchi.org/chi/2026/program/content/223265) AI Personalization Paradox: Reading Highlights for Personalized AI-Assisted Writing Increases Engagement but Undermines Autonomy and Ownership
 > * [[16 April 9:00-10:30, P1-Room 131]](https://programs.sigchi.org/chi/2026/program/content/223082) ChatLearn: Leveraging Non-Native Speaker Communication Challenges as Language Learning Opportunities
 
@@ -84,6 +84,7 @@ I previously obtained a Master of Information Science and Technology from Osaka 
 * Student Volunteer at CHI '25, CHI '23, and VIS '23
 
 ## Awards
+* Honourable Mention Best Paper Award (CHI'26, CHI'25, CHI'23)
 * Special Recognition for Outstanding Reviews (CHI'26, CHI'26 LBW, CHI'25 LBW, CHI '24, and ISS '24 Febuary Round)
 * Melbourne Plus - People Leadership (2024)
 * Melbourne Research Scholarship (2021)
